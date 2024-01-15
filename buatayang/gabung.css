@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+body{
+	font-weight: normal;
+	font-family: 'Quicksand', sans-serif;
+	background-color: #e5e5e5;
+}
+a {
+	text-decoration: none;
+	color:white;
+} 
+
+p{
+	font-weight: bold;
+	color: black;
+}
+h4{
+	color: black;
+}
+h3,h1 {
+	font-weight: bold;
+}
+.judul h1{
+ 	font-weight: bold;
+ }
+.nav span{
+	color: white;
+}
+.spacer{
+	padding: 10px 0px; 
+	height: 1px;
+}
+
+.judul h1{
+	font-size: 38px;
+	text-align: center;
+}
+.pic{
+	margin:0 auto;
+		width: 100%;
+	text-align: center;
+}
+titik{
+	color: red;
+	font-size: 70px;
+}
+.quotes{
+	width: 100%;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+}
+#Tidak{
+	position:absolute;
+	left: 52%; 
+	text-align: center;
+	
+}
+#Puas{
+	position:absolute; 
+	left: 35%;
+	text-align: center;	
+}
+#No{
+	position:absolute;
+	left: 52%; 
+	text-align: center;
+	
+}
+#Ya{
+	position:absolute; 
+	left: 35%;
+	text-align: center;	
+}
+.space{
+	width: 100%;
+	height: 90px;
+
+}
+.blue{
+	width:200px; 
+	font-weight: bold;
+	background-color: #2a9d8f;
+	text-align: center;
+}
+.red{
+	width:200px; 
+	font-weight: bold; 
+	background-color: #e76f51;
+	text-align: center
+}
+.lanjut{
+	text-align: center;
+	margin:0 auto;
+	background-color: #2a9d8f;
+	width:200px; 
+	font-weight: bold;
+}
+.bait{
+	text-align: center;
+	margin:0 auto;
+	background-color: #e76f51;
+	width:200px; 
+	font-weight: bold;
+}
+.tombol{
+	width: 100%;
+	margin: 0 auto;
+}
+.video{
+	width: 100%;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	margin: 0 auto;
+}
+@media only screen and (max-width: 600px) {
+ .judul h1{
+ 	font-size: 28px;
+ 	font-weight: bold;
+ }
+ #Tidak{
+	position:absolute;
+	left: 55%; 
+	text-align: center;
+	
+}
+#Ya{
+	position:absolute; 
+	left: 15%;
+	text-align: center;	
+}
+#Puas{
+	position:absolute; 
+	left: 15%;
+	text-align: center;	
+}
+#No{
+	position:absolute;
+	left: 55%; 
+	text-align: center;
+	
+}
+.blue{
+	width:120px; 
+}
+.red{
+	width:120px; 
+
+}
+.footer span{
+	font-size: 10px;
+}
+iframe{
+	width: 100%;
+	height: 300px;
+}
+.btn{
+	margin: 5px 5px 5px 5px;
+}
+
+}
