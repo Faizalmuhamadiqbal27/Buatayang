@@ -1,2 +1,2 @@
 # Buatayang
-Buatayang
+Seru-seruan ae inimah lur
